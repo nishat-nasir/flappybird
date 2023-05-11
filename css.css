@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  text-align: center;
+  user-select: none;
+  font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+}
+header {
+  margin: 0 auto;
+  width: 431px;
+}
+.score-container {
+  display: flex;
+  justify-content: space-between;
+  background: #6162c9;
+  padding: 10px 20px;
+}
+
+h1 {
+  background: url("./bg.png") 0% 340px;
+  padding: 1.2rem 0;
+  margin: 0;
+}
